@@ -1,1 +1,1 @@
-c# Bem vindo ao Curso de Git e GitHub
+# Bem vindo ao Curso de Git e GitHub
