@@ -44,3 +44,10 @@ _Código em HTML:_
   <span>Curso de git</span>
 </h1>
 ```
+### Criando tabelas
+Propriedade | Descrição
+------------|----------
+name| Para informar o nome do usuario
+size| Para definir o tamanho do campo
+background| Cor de fundo da area em Hexadecimal
+onPress| Função chamada quando clicar no botão
