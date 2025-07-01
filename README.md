@@ -1,5 +1,17 @@
 # Bem vindo ao Curso de Git e GitHub
 
+### Links internos (Menu)
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github)
+
+[Lista de tarefas](#tasklist)
+
+[Lista não ordenada](#lista-não-ordenada)
+
+[Lista ordenada](#lista-ordenada)
+
+[Criando tabelas](#criando-tabelas)
+
+
 ### TaskList
 - [X] Praticar diversos push no repositório
 - [X] Praticar o comando `git checkout`
