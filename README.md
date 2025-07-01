@@ -1,4 +1,11 @@
 # Bem vindo ao Curso de Git e GitHub
+
+### TaskList
+- [X] Praticar diversos push no repositório
+- [X] Praticar o comando `git checkout`
+- [ ] Fazer um merge para a main
+- [ ] Abrir uma Pullrequest
+
 ### Lista não ordenada
 * Começando com git
 * Aprendendo sobre branches
