@@ -30,4 +30,10 @@ function showName(name){
   return "Bem vindo!! " + name;
 }
 ```
-
+_Código em HTML:_
+```html
+<h1>
+  Titulo do projeto
+  <span>Curso de git</span>
+</h1>
+```
