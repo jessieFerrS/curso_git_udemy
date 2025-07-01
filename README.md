@@ -7,6 +7,8 @@
 
 ### Lista ordenada
 1. Começando com git
+    1. O que é git?
+    2. Instalando Git na máquina
 2. Aprendendo sobre Branches
 3. Git Avançado
 4. Usando gitHub de forma profissional
